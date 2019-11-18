@@ -6,3 +6,6 @@ I'm living in Canada right now.
 Hello, I'm testing git conflicts.
 
 OK, I already know how to solve the hardest conflicts.
+
+
+testing the last scenario.
