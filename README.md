@@ -7,4 +7,5 @@ Hello, I'm testing git conflicts.
 
 OK, I already know how to solve the hardest conflicts.
 
-keep testing and learning.
+
+testing the last scenario.
